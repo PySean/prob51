@@ -8,7 +8,7 @@
     Here we're trying to find the first family of 8 prime numbers that all share N digits Y.
     These digits do not have to be contiguous.
 '''
-from pro51yelpers import genplates
+from pro51helpers import genplates
 from sieve import makesieve, nextprime
 
 def pf8(): #prime family of size 8
