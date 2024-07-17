@@ -3,6 +3,8 @@
 
 '''
     "prob51.py", by Sean Soderman
+    Solves the 51st Project Euler problem. 
+
     Here we're trying to find the first family of 8 prime numbers that all share N digits Y.
     These digits do not have to be contiguous.
 '''
